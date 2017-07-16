@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M04_CAB2</string>
+    <string name="call">Call</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="action_settings">Settings</string>
+</resources>
